@@ -1,0 +1,16 @@
+.Logo {
+    margin: 20px;
+    text-align: left;
+}
+
+/* .secondHeaderButtons {
+    text-align: right;
+    position: relative; top: -70px;
+ 
+}  */
+
+.backgroundImage {
+    background-image: url("_img/MambaBackground.jpg");
+    width: 2000px;
+
+}
